@@ -96,7 +96,7 @@
 
        ```bash
        sudo netplan generate
-       sudo netplan applay
+       sudo netplan apply
        sudo netplan get
        ```
 
