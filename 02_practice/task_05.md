@@ -7,7 +7,7 @@
 Каждую выполненную вам команду и результат её работы поместите в отчёт в виде скриншота.
 
 1. [Контроль версий при помощи git](./task_05_subtasks/task_05.1.md);
-1. [Основы github. Github actions](./task_05_subtasks/task_05.2.md).
+2. [Основы Github. Github Actions](./task_05_subtasks/task_05.2.md).
 
 ## Вопросы к практическому заданию
 
